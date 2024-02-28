@@ -1,6 +1,6 @@
 <h2>Le Jeu</h2>
 
-<div class="container">
+<div class="container" hidden>
     <div id="main-menu">
         <p>Choisissez votre niveau de difficulté</p>
         <div id="difficulty">
@@ -55,4 +55,43 @@
             </tbody>
         </table>
     </div>
+</div>
+
+<div id="game">
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
+    <button>
+        <img class="card" src="<?= $absoluteUrl ?>/assets/cards/MemoryGame_verso.png" alt="carte">
+    </button>
 </div>
